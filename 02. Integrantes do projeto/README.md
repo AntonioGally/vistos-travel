@@ -1,5 +1,4 @@
-
-**Integrantes do Projeto **
+**Integrantes do Projeto**
 
 Cliente: Vistos Travel
 
