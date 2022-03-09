@@ -1,29 +1,3 @@
-
-<!-- Output copied to clipboard! -->
-
-<!-----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 0.698 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β33
-* Tue Mar 08 2022 15:08:14 GMT-0800 (PST)
-* Source doc: 04.Glossário
-* Tables are currently converted to HTML tables.
------>
-
-
 **Glossário **
 
 
